@@ -3,12 +3,9 @@
 }
 
 .titulo {
-   
-    display: inline-block;
-    margin-left: 500px;
+   text-align: center;
     margin-top: 100px;    
-    padding: 30px;
-    width: 500px;
+    
 }
 
 .carro {
