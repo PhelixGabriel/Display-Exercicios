@@ -1,2 +1,2 @@
-# Display-Exercicios
-Exercício do Curso Origamid
+# Exercício do Curso Origamid
+
