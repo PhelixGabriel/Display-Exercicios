@@ -1,0 +1,55 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+   
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 100px;    
+    padding: 30px;
+    width: 500px;
+}
+
+.carro {
+    color: white;
+    width: 1000px;
+    background-color: #111;
+    display: inline-block;
+    margin-left: 150px;
+    border-radius: 3px;
+    padding: 30px;
+}
+
+.bicicleta {
+    margin-top: 20px;
+    color: white;
+    width: 1000px;
+    background-color: #111;
+    display: inline-block;
+    margin-left: 150px;
+    border-radius: 3px;
+    padding: 30px;
+}
+
+strong{
+    font-size: 25px;
+}
+
+.preco {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+span {
+    color: #febe01 ;
+}
+
+button {
+    color: #332200;
+    background-color: #febe01;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+}
